@@ -1,2 +1,10 @@
-# s5p-wrfchem-notebook
-Some notebooks for [s5p-wrfchem](https://github.com/zxdawn/s5p-wrfchem)
+# S5P-WRFChem-Notebook
+Some notebooks for [S5P-WRFChem](https://github.com/zxdawn/S5P-WRFChem).
+
+- debug
+
+  Debugging the S5P-WRFChem retrieval algorithm.
+
+- application
+
+  Applications of S5P-WRFChem products.
